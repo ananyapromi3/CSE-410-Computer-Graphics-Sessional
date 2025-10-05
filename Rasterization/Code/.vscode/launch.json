@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ananyashahrinpromi/Documents/BUET/CSE410/Offline 2/2005079",
+      "program": "/Users/ananyashahrinpromi/Documents/BUET/CSE410/Offline 2/2005079/build/Debug/outDebug"
+    }
+  ]
+}
